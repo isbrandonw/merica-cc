@@ -9,6 +9,10 @@ dist
 # Node dependencies
 node_modules
 
+# pnpm
+.pnpm-store
+pnpm-debug.log*
+
 # Logs
 logs
 *.log
@@ -17,6 +21,12 @@ logs
 .DS_Store
 .fleet
 .idea
+
+# Development environments
+.devcontainer
+.gitpod
+.ona
+.vscode
 
 # Local env files
 .env
