@@ -1,3 +1,9 @@
 {
-  "recommendations": ["nuxt.mdc"]
+  "recommendations": [
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "Nuxt.mdc",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode"
+  ]
 }

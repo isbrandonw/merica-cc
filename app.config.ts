@@ -1,13 +1,13 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: "shadcn-docs-nuxt",
+      name: "Merica Me",
       description:
-        "Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.",
+        "Beautiful.",
     },
     theme: {
       customizable: true,
-      color: "zinc",
+      color: "slate",
       radius: 0.5,
     },
     header: {
@@ -27,7 +27,7 @@ export default defineAppConfig({
       links: [
         {
           icon: "lucide:github",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+          to: "https://github.com/isbrandonw/merica-cc.git",
           target: "_blank",
         },
       ],
@@ -56,13 +56,13 @@ export default defineAppConfig({
         {
           title: "Star on GitHub",
           icon: "lucide:star",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+          to: "https://github.com/isbrandonw/merica-cc.git",
           target: "_blank",
         },
         {
           title: "Create Issues",
           icon: "lucide:circle-dot",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues",
+          to: "https://github.com/isbrandonw/merica-cc.git/issues",
           target: "_blank",
         },
       ],
